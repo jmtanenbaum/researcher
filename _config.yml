@@ -3,6 +3,7 @@ url: "https://ankitsultana.com"
 baseurl: "/researcher"
 
 markdown: kramdown
+#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
@@ -10,16 +11,14 @@ footer: yes
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
-# remote_theme: ankitsultana/researcher@gh-pages
-
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "Contact"
-   link: "contact"
- - name: "Resume"
-   link: "resume.pdf" # put your files in the assets directory
  - name: "About"
    link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
