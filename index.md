@@ -7,14 +7,7 @@ layout: default
 <img class="profile-picture" src="sherlock.jpg">
 
 **Julia Tanenbaum**
-
-461 East Charleston Drive
-
-Claremont, CA
-
 julia.tanenbaum@gmail.com
-
-(c) (909) 203-6541
 
 **EDUCATION**
 
