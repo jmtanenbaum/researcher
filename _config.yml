@@ -1,4 +1,4 @@
-title: Researcher
+title: Julia Tanenbaum
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
 
@@ -18,7 +18,5 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "Teaching Statement"
+   link: "/teaching/"
