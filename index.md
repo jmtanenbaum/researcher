@@ -41,8 +41,8 @@ Bachelor of Arts, _magna cum laude,_ with Honors in History, May 2017
 - Hosted an English graduate seminar with 12 students and provided instruction on the use of special collections materials.
 - Taught classes and workshops on information literacy skills and applications including Zotero and Zotfile.
 - Edited and marked up Spanish, Maya, and English sociolinguistic interview transcripts for an international project.
-- Served as library technical liaison for graduate student Omeka [website](https://bazlova.humspace.ucla.edu/) on _The History of Belarusian Vyzhivanka_. Set up server and taught the student how to exhibit artwork using Omeka.
-- Designed, curated, and wrote copy for the digital [exhibit](https://spark.adobe.com/page/5gFJRQ3hXeYO5/)_Robot is 100!:_ _Karel Čapek&#39;s R.U.R and the Robot in Pop Culture_ in collaboration with the Czech consulate using Adobe Spark.
+- Served as library technical liaison for graduate student Omeka [website] (https://bazlova.humspace.ucla.edu/) on _The History of Belarusian Vyzhivanka_. Set up server and taught the student how to exhibit artwork using Omeka.
+- Designed, curated, and wrote copy for the digital [exhibit] (https://spark.adobe.com/page/5gFJRQ3hXeYO5/)_Robot is 100!:_ _Karel Čapek&#39;s R.U.R and the Robot in Pop Culture_ in collaboration with the Czech consulate using Adobe Spark.
 - Trained 3 library assistants and new hires on in person and digital reference services.
 
 **Digital Library Assistant** UCLA LibraryLos Angeles, CA July 2020-December 2020
@@ -94,9 +94,9 @@ Bachelor of Arts, _magna cum laude,_ with Honors in History, May 2017
 
 **PUBLICATIONS**
 
-- [&quot;Striving Towards Solidarity in Abolitionist Research with Community Based Archives&quot;](https://laacollective.org/work/striving-towards-solidarity-in-abolitionst-research/)_Acid Free_, No. 12 (Winter 2020)
-- (peer reviewed) [&quot;Personal/Political Epistemologies in Libraries and Archives&quot;](https://criticaltheoryis.blogspot.com/2020/02/personalpolitical-epistemologies.html)_Critical LIS Blog_ (February 2020)
-- &quot;Never Again Para Nadie: The Jewish Movement to Shut Down I.C.E in Los Angeles&quot; _Salvo,_ No. 6(Summer 2019)
+- [&quot;Striving Towards Solidarity in Abolitionist Research with Community Based Archives&quot;] (https://laacollective.org/work/striving-towards-solidarity-in-abolitionst-research/)_Acid Free_, No. 12 (Winter 2020)
+- (peer reviewed) [&quot;Personal/Political Epistemologies in Libraries and Archives&quot;] (https://criticaltheoryis.blogspot.com/2020/02/personalpolitical-epistemologies.html)_Critical LIS Blog_ (February 2020)
+- &quot;Never Again Para Nadie: The Jewish Movement to Shut Down I.C.E in Los Angeles&quot; _Salvo,_ Nso. 6(Summer 2019)
 - (peer reviewed) &quot;To Destroy Domination in All Its Forms: Anarcha-Feminist Theory, Organization and Action 1970-1978.&quot; _Perspectives on Anarchist Theory: Anarcha-Feminisms_ 1, no. 29 (May 3, 2016)
 
 **AWARDS**
