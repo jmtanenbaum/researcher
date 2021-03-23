@@ -96,9 +96,9 @@ Bachelor of Arts, _magna cum laude,_ with Honors in History, May 2017
 **PUBLICATIONS**
 
 - [&quot;Striving Towards Solidarity in Abolitionist Research with Community Based Archives&quot;](https://laacollective.org/work/striving-towards-solidarity-in-abolitionst-research/)_Acid Free_, No. 12 (Winter 2020)
-- (peer reviewed) [&quot;Personal/Political Epistemologies in Libraries and Archives&quot;](https://criticaltheoryis.blogspot.com/2020/02/personalpolitical-epistemologies.html)_Critical LIS Blog_ (February 2020)
+- [&quot;Personal/Political Epistemologies in Libraries and Archives&quot;](https://criticaltheoryis.blogspot.com/2020/02/personalpolitical-epistemologies.html)_Critical LIS Blog_ (February 2020)
 - &quot;Never Again Para Nadie: The Jewish Movement to Shut Down I.C.E in Los Angeles&quot; _Salvo,_ Nso. 6(Summer 2019)
-- (peer reviewed) &quot;To Destroy Domination in All Its Forms: Anarcha-Feminist Theory, Organization and Action 1970-1978.&quot; _Perspectives on Anarchist Theory: Anarcha-Feminisms_ 1, no. 29 (May 3, 2016)
+- &quot;To Destroy Domination in All Its Forms: Anarcha-Feminist Theory, Organization and Action 1970-1978.&quot; _Perspectives on Anarchist Theory: Anarcha-Feminisms_ 1, no. 29 (May 3, 2016)
 
 **AWARDS**
 
