@@ -42,8 +42,8 @@ Bachelor of Arts, _magna cum laude,_ with Honors in History, May 2017
 - Hosted an English graduate seminar with 12 students and provided instruction on the use of special collections materials.
 - Taught classes and workshops on information literacy skills and applications including Zotero and Zotfile.
 - Edited and marked up Spanish, Maya, and English sociolinguistic interview transcripts for an international project.
-- Served as library technical liaison for graduate student Omeka  [website](https://bazlova.humspace.ucla.edu/) on _The History of Belarusian Vyzhivanka_. Set up server and taught the student how to exhibit artwork using Omeka.
-- Designed, curated, and wrote copy for the digital [exhibit](https://spark.adobe.com/page/5gFJRQ3hXeYO5/)_Robot is 100!:_ _Karel Čapek&#39;s R.U.R and the Robot in Pop Culture_ in collaboration with the Czech consulate using Adobe Spark.
+- Served as library technical liaison for graduate student Omeka  [website](https://bazlova.humspace.ucla.edu/)  on _The History of Belarusian Vyzhivanka_. Set up server and taught the student how to exhibit artwork using Omeka.
+- Designed, curated, and wrote copy for the digital [exhibit](https://spark.adobe.com/page/5gFJRQ3hXeYO5/)_ Robot is 100!:_ _Karel Čapek&#39;s R.U.R and the Robot in Pop Culture_ in collaboration with the Czech consulate using Adobe Spark.
 - Trained 3 library assistants and new hires on in person and digital reference services.
 
 **Digital Library Assistant** UCLA LibraryLos Angeles, CA July 2020-December 2020
@@ -87,7 +87,7 @@ Bachelor of Arts, _magna cum laude,_ with Honors in History, May 2017
 
 **PROJECTS**
 
-[**Rebel Archives in the Golden Gulag**](http://rebelarchives.humspace.ucla.edu/)April-July 2020
+[**Rebel Archives in the Golden Gulag**](http://rebelarchives.humspace.ucla.edu/) April-July 2020
 
 - Built partnerships between the UCLA Department of Information Studies, the Freedom Archives, and 5 community organizations such as the California Coalition for Women Prisoners (CCWP) to curate a selection of their archival documents and obtain permissions to use them in exhibitions on the history of incarcerated people&#39;s organizing efforts in CA.
 - Created Dublin Core metadata for 80 audio-visual and text based archival documents in Omeka.
