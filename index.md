@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## About Me
+I am an archivist because I realized that as an individual historian I could endeavor to include a few silenced voices in the larger historical narrative, but as an archivist I could preserve the voices of many more individuals and communities by assuring that their writings, records, and images were saved and shared with the public. I am also dedicated to promoting a feminist and collaborative approach to primary source literacy that encourages learners to both understand and question archival practices and book history. My academic interests include community-based archives, social movement history, and critical carceral studies.
 
 <img class="profile-picture" src="sherlock.jpg">
 
@@ -29,7 +30,7 @@ Bachelor of Arts, _magna cum laude,_ with Honors in History, May 2017
 - Led successful Giving Tuesday and end of the year fundraisers and increased Giving Tuesday contributions by 254% through data driven social media marketing and suggesting challenge grants to the board. Wrote email and social media copy, created graphics, and ran Facebook ads for the campaigns.
 - Wrote a guide to fundraising with analytics tools and Facebook ads for future interns and the board and presented data and findings to the board for each campaign to improve future efforts.
 - Created video and image based social media posts 2 times a week highlighting the collections on Instagram and Facebook and increased Facebook page likes by over 60%, Facebook reach by 2,600% and Instagram reach by 440%.
-- Co-curated Scalar based exhibit on _Curve Magazine_ featuring documents and a Tableau based interactive map and data dashboard and timeline.js based interactive timeline.
+- Co-curated Scalar based [exhibit](https://scalar.usc.edu/works/curve-magazine-virtual-exhibit/index) on _Curve Magazine_ featuring documents and a Tableau based interactive map and data dashboard and timeline.js based interactive timeline.
 - Implemented search engine optimization for the Mazer website and used Google Analytics to increase traffic.
 - Processed subject files for digitization
 - Conducted a survey of audiovisual materials before their transfer to the audiovisual preservation lab at UCLA
@@ -41,8 +42,8 @@ Bachelor of Arts, _magna cum laude,_ with Honors in History, May 2017
 - Hosted an English graduate seminar with 12 students and provided instruction on the use of special collections materials.
 - Taught classes and workshops on information literacy skills and applications including Zotero and Zotfile.
 - Edited and marked up Spanish, Maya, and English sociolinguistic interview transcripts for an international project.
-- Served as library technical liaison for graduate student Omeka [website] (https://bazlova.humspace.ucla.edu/) on _The History of Belarusian Vyzhivanka_. Set up server and taught the student how to exhibit artwork using Omeka.
-- Designed, curated, and wrote copy for the digital [exhibit] (https://spark.adobe.com/page/5gFJRQ3hXeYO5/)_Robot is 100!:_ _Karel Čapek&#39;s R.U.R and the Robot in Pop Culture_ in collaboration with the Czech consulate using Adobe Spark.
+- Served as library technical liaison for graduate student Omeka  [website](https://bazlova.humspace.ucla.edu/) on _The History of Belarusian Vyzhivanka_. Set up server and taught the student how to exhibit artwork using Omeka.
+- Designed, curated, and wrote copy for the digital [exhibit](https://spark.adobe.com/page/5gFJRQ3hXeYO5/)_Robot is 100!:_ _Karel Čapek&#39;s R.U.R and the Robot in Pop Culture_ in collaboration with the Czech consulate using Adobe Spark.
 - Trained 3 library assistants and new hires on in person and digital reference services.
 
 **Digital Library Assistant** UCLA LibraryLos Angeles, CA July 2020-December 2020
@@ -94,8 +95,8 @@ Bachelor of Arts, _magna cum laude,_ with Honors in History, May 2017
 
 **PUBLICATIONS**
 
-- [&quot;Striving Towards Solidarity in Abolitionist Research with Community Based Archives&quot;] (https://laacollective.org/work/striving-towards-solidarity-in-abolitionst-research/)_Acid Free_, No. 12 (Winter 2020)
-- (peer reviewed) [&quot;Personal/Political Epistemologies in Libraries and Archives&quot;] (https://criticaltheoryis.blogspot.com/2020/02/personalpolitical-epistemologies.html)_Critical LIS Blog_ (February 2020)
+- [&quot;Striving Towards Solidarity in Abolitionist Research with Community Based Archives&quot;](https://laacollective.org/work/striving-towards-solidarity-in-abolitionst-research/)_Acid Free_, No. 12 (Winter 2020)
+- (peer reviewed) [&quot;Personal/Political Epistemologies in Libraries and Archives&quot;](https://criticaltheoryis.blogspot.com/2020/02/personalpolitical-epistemologies.html)_Critical LIS Blog_ (February 2020)
 - &quot;Never Again Para Nadie: The Jewish Movement to Shut Down I.C.E in Los Angeles&quot; _Salvo,_ Nso. 6(Summer 2019)
 - (peer reviewed) &quot;To Destroy Domination in All Its Forms: Anarcha-Feminist Theory, Organization and Action 1970-1978.&quot; _Perspectives on Anarchist Theory: Anarcha-Feminisms_ 1, no. 29 (May 3, 2016)
 
